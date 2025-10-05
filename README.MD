@@ -186,8 +186,8 @@ Um beijo grande e até a próxima!
 
 
 > [!TIP]
-> Utilizar o mesmo chat que o roteiro foi gerado para criação do título, contribui para uma informação mais precisa no mesmo contexto. Gera de forma mais rápida, evitando refazer o prompt.
-
+> Utilizar o mesmo chat para gerar o título e o roteiro contribui para uma informação mais precisa, garantindo que o título esteja alinhado com o contexto do conteúdo. Além disso, a criação é mais rápida, eliminando a repetição do prompt inicial.
+>
 > No caso de uma nova informação, em outro contexto, é recomendado abrir um novo chat.
 
 
@@ -209,8 +209,6 @@ Sugira 5 títulos com subtítulos para esse episódio.
 > - O título deve ser mais curto, descontraído em uma linguagem jovial
 >
 > O título escolhido foi: "**Bug no sistema: cadê as mulheres?**, com o intuito de chamar atenção do público mais jovem, adaptei essa frase com a gíria "manas" que se refere a mulheres, resultando em: "**Bug no sistema: cadê as manas?**".
->
->O título escolhido foi: "**Bug no sistema: cadê as mulheres?**, com o intuito de chamar atenção do público mais jovem, adaptei essa frase com a gíria "manas" que se refere a mulheres, resultando em: "**Bug no sistema: cadê as manas?**".
 
 
 ---
