@@ -55,11 +55,19 @@ Para a realização do podcast, a criação de um visualizer não era exigida pe
 
 ## 🛠️ Instruções de execução
 
+---
+
 ### Roteirista de podcast
+
+---
 
 Abaixo descrevi os prompts criados para realizar o projeto do podcast, todos eles foram elaborados pela ferramenta da OpenAI Chat-GPT.
 
+---
+
 #### Criação de título do podcast
+
+---
 
 **Prompt**
 
@@ -83,14 +91,13 @@ Esse podscast é apresentado por uma mulher carismática e que traz em seus epis
 - Não deve utilizar as seguintes palavras: tecnologia, mulher, feminino, empoderamento, rosa;
 - Não deve remeter apenas a tecnologia ou apenas à mulheres.
 
----
-
-O título escolhido foi: **elas no \<comando\>**, pois transmite liderança e protagonismo feminino.
+> O título escolhido foi: **elas no \<comando\>**, pois transmite liderança e protagonismo feminino.
 
 ---
-
 
 #### Criação de um roteiro
+
+---
 
 **Prompt:**
 
@@ -124,8 +131,6 @@ Você é uma mulher roteirista do podcast “elas no < comando >”, que tem com
 - Não use termos técnicos
 - Não use palavras ou termos que crie uma atmosfera pesada sobre os assuntos
 - Não ultrapasse 2 minutos de duração
-
----
 
 **Resposta ao prompt**:
 
@@ -168,7 +173,12 @@ Um beijo grande e até a próxima!
 
 #### Criação de um título para o episódio
 
-Aproveitei o mesmo chat que havia gerado o roteiro para criação do título, assim gerando um título do episódio no mesmo contexto de forma mais rápida, evitando refazer o prompt.
+---
+
+> [!TIP]
+> Utilizar o mesmo chat que o roteiro foi gerado para criação do título, contribui para uma informação mais precisa no mesmo contexto. Gera de forma mais rápida, evitando refazer o prompt.
+
+> No caso de uma nova informação, em outro contexto, é recomendado abrir um novo chat.
 
 **Prompt:**
 
@@ -182,21 +192,25 @@ Sugira 5 títulos com subtítulos para esse episódio.
 - O título deve estar dentro do contexto do episódio
 - O título deve fazer um trocadilho com tecnologia
 
----
+> [!NOTE]
+> Ao receber a resposta, refinei o prompt para gerar outros títulos interessantes:
+> - O título deve ser mais curto, descontraído em uma linguagem jovial
 
-Ao receber a resposta, refinei o prompt para gerar outros títulos interessantes:
-
-- O título deve ser mais curto, descontraído em uma linguagem jovial
-
-O título escolhido foi: "**Bug no sistema: cadê as mulheres?**, com o intuito de chamar atenção do público mais jovem, adaptei essa frase com a gíria "manas" que se refere a mulheres, resultando em: "**Bug no sistema: cadê as manas?**".
+>O título escolhido foi: "**Bug no sistema: cadê as mulheres?**, com o intuito de chamar atenção do público mais jovem, adaptei essa frase com a gíria "manas" que se refere a mulheres, resultando em: "**Bug no sistema: cadê as manas?**".
 
 ---
 
 ### Artes do podcast
 
+---
+
 Para produzir as imagens foi utilizada a Nano Banana do Gemini AI.
 
+---
+
 #### Criação da capa do podcast
+
+---
 
 **Prompt:**
 
@@ -212,8 +226,6 @@ Um studio bem iluminado e colorido, em tons pastéis de roxo. Há uma planta “
 
 Proporção 1:1. lo-fi aesthetic, cozy podcast studio vibe, studio ghibli inspired, cyberpunk pastel colors, soft lighting, warm atmosphere, cinematic composition, highly detailed digital painting
 
----
-
 Imagem gerada:
 
 ![Capa do Podcast](assets/capa_do_podcast_gemini_ai.png)
@@ -221,6 +233,8 @@ Imagem gerada:
 ---
 
 #### Criação da capa do EP. 01 | Bug no sistema: cadê as manas?
+
+---
 
 **Prompt:**
 
@@ -230,33 +244,31 @@ Crie uma capa de podcast em pixel art.
 
 **[Background]** Escritório de tecnologia em tons pasteis de roxo, moderno e iluminado.
 
----
-
 Imagem gerada:
 
 ![Capa do EP. 01](assets/ep.01_bug_no_sistema_cade_as_manas_original.png)
 
-Refinei o prompt para:
-
-- remova as plantas suspensas
+> [!NOTE]
+> Refinei o prompt para:
+> - remova as plantas suspensas
 
 Imagem refinada 01:
 
 ![Capa do EP. 01](assets/ep.01_bug_no_sistema_cade_as_manas_refinamento1.png)
 
-Refinei o prompt para:
-
-- adicione o título do episódio: EP. 01 | BUG NO SISTEMA: CADÊ AS MANAS? em pixel art roxa
+> [!NOTE]
+> As plantas foram removidas mas o título também foi retirado, então refinei para:
+> - adicione o título do episódio: EP. 01 | BUG NO SISTEMA: CADÊ AS MANAS? em pixel art roxa
 
 Imagem refinada 02:
 
 ![Capa do EP. 01](assets/ep.01_bug_no_sistema_cade_as_manas_refinamento2_erro_de_acento.png)
 
-Refinei o prompt para:
+> [!NOTE]
+> O título foi adicionado com erro no acento circunflexo, então refinei o prompt novamente para:
+>- corrija o acento circunflexo "^" da palavra "cadê"
 
-- corrija o acento circunflexo "^" da palavra "cadê"
-
-Como a resposta foi a mesma, me deparei com essa limitação da ferramenta ao corrigir o acento circunflexo. Diante disso, busquei outra alternativa utilizando a ferramenta de criação Canva.
+>Como a resposta foi a mesma, me deparei com essa limitação da ferramenta ao corrigir o acento circunflexo. Diante disso, busquei outra alternativa utilizando a ferramenta de criação Canva.
 
 Imagem final criada:
 
@@ -278,15 +290,15 @@ Imagem final criada:
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspGeiza Morais<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/m0ra1s">
         GitHub
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/felipe-exe">
+        href="www.linkedin.com/geizamorais">
         LinkedIn
     </a>
     &nbsp;|&nbsp;</p>
@@ -296,4 +308,4 @@ Imagem final criada:
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Geiza Ferreira](https://github.com/m0ra1s)
