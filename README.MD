@@ -59,8 +59,6 @@ Para a realização do podcast, a criação de um visualizer não era exigida pe
 
 ## Roteirista de podcast
 
----
-
 Abaixo descrevi os prompts criados para realizar o projeto do podcast, todos eles foram elaborados pela ferramenta da OpenAI Chat-GPT.
 
 ---
@@ -91,6 +89,7 @@ Esse podscast é apresentado por uma mulher carismática e que traz em seus epis
 - Não deve utilizar as seguintes palavras: tecnologia, mulher, feminino, empoderamento, rosa;
 - Não deve remeter apenas a tecnologia ou apenas à mulheres.
 
+> [!NOTE]
 > O título escolhido foi: **elas no \<comando\>**, pois transmite liderança e protagonismo feminino.
 
 ---
@@ -116,7 +115,6 @@ Você é uma mulher roteirista do podcast “elas no < comando >”, que tem com
 [FINALIZAÇÃO]
 
 [DESPEDIDA]
-
 
 {REGRAS}
 
@@ -144,7 +142,7 @@ Você é uma mulher roteirista do podcast “elas no < comando >”, que tem com
 
 [INTRODUÇÃO]
 
-Narradora: Oi, gente! Sejam muito bem-vindas e bem-vindos a mais um episódio do **elas no comando**. Eu sou a Ada e tô muito feliz de ter você aqui comigo! 💜
+Narradora: Oi, gente! Sejam muito bem-vindas e bem-vindos a mais um episódio do **elas no comando**. Eu sou a Ada e tô muito feliz de ter você aqui comigo!
 
 Antes de começar, quero deixar um agradecimento especial e cheio de carinho pra galera da **DIO**. Obrigada por compartilhar tanto conhecimento e fazer com que esse podcast seja possível. Vocês são incríveis!
 
