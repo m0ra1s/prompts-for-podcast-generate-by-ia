@@ -77,19 +77,20 @@ Esse podscast é apresentado por uma mulher carismática e que traz em seus epis
 ```
 Aqui estão 5 sugestões criativas de nomes para o podcast, seguindo todas as regras:
 
-**Código Rosa** – remete ao universo tech (código) e ao toque feminino de forma leve e divertida.
+Código Rosa – remete ao universo tech (código) e ao toque feminino de forma leve e divertida.
 
-**Elas no Comando** – transmite liderança e protagonismo dentro do setor.
+Elas no Comando – transmite liderança e protagonismo dentro do setor.
 
-**Bit a Bit** – faz referência ao mundo digital, mostrando a construção passo a passo da presença delas.
+Bit a Bit – faz referência ao mundo digital, mostrando a construção passo a passo da presença delas.
 
-**Conexão Delas** – evoca união, troca de saberes e protagonismo.
+Conexão Delas – evoca união, troca de saberes e protagonismo.
 
-**Sintaxe Livre** – referência à programação, mas com a ideia de liberdade, autenticidade e voz ativa.
+Sintaxe Livre – referência à programação, mas com a ideia de liberdade, autenticidade e voz ativa.
 ```
 
 > [!NOTE]
-> O título escolhido foi: **elas no \<comando\>**
+> O título escolhido foi: **elas no \<comando\>**.
+> Adicionei "<>" entre a palavra "comando" para remeter a tecnologia
 
 
 ### Criação de um roteiro
