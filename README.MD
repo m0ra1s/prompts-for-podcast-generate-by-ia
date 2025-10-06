@@ -416,7 +416,7 @@ Esse projeto foi resultado de muitos estudos e dedicação. O uso da IA para cri
       align=left 
       margin=10 
       width=80 
-      src="./assets/"
+      src="./assets/me"
     />
     <p>&nbsp&nbsp&nbspGeiza Morais<br>
     &nbsp&nbsp&nbsp
