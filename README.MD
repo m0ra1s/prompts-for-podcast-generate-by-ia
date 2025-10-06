@@ -371,15 +371,19 @@ Utilizei a ferramenta [Pippit](https://www.pippit.ai/) que gera vídeos criados 
 Estilo anime/lo-fi girl: jovem alternativa com piercing prateado no septo, franja e cabelo castanho escuro ondulado acima dos ombros, olhos castanhos, headphones roxos e camisa preta com estampa de gato-robô. Sentada atrás de mesa lilás com microfone de podcast e livro de Ada Lovelace. Fundo em tons pastéis de roxo, iluminado, com espada-de-são-jorge em vaso roxo escuro, jibóia suspensa em macramê roxo, costela-de-adão grande ao lado de luminária prateada arqueada, suculenta caindo em vaso disco ball refletindo luz. Estante sob janela com livros de programação (JAVA, PYTHON, AI) e vaso de tulipas rosas. Na parede, placa neon pixel art “<elas no comando>”. Pela janela, cidade cyberpunk sustentável com prédios cobertos de plantas e árvores, e um trem-bala futurista cruzando horizontalmente a paisagem. Criar uma animação em loop mostrando o trem-bala em velocidade contínua. 1:1, cozy podcast studio vibe, studio ghibli inspired, pastel cyberpunk colors, cinematic composition.
 
 > [!NOTE]
-> Quando gerei o prompt da animação, o título do podcast era "<b>&lt;elas no comando&gt;</b>" que depois alterei para "<b>elas no &lt;comando&gt;</b>". Mantive o vídeo gerado com o título inicial porque gostei muito da animação criada e não interfere de maneira significativa na nova ideia.
+> O Pippit gerou diversas animações curtas de 02-04 segundos, inclusive com vídeos realistas de uma pessoa gerada por IA. Ele também gerou um áudio e legendas de IA, que removi antes de fazer o download do vídeo.
+
+
+> [!NOTE]
+> Quando gerei o prompt da animação, o título do podcast era "<b>&lt;elas no comando&gt;</b>" que depois alterei para "<b>elas no &lt;comando&gt;</b>". Mantive o vídeo gerado com o título inicial, porque gostei muito da animação criada e esse detalhe não interfere de maneira significativa no resultado.
 
 ### Edição de vídeo
 
-Para editar o vídeo utilizei a ferramenta [Canva](https://canva.com). Criei também uma arte que imita a tela de um visualizador de podcast, utilizando a capa do episódio gerado pelo Gemini AI, caixa de texto e alguns elementos gratuitos disponíveis. A referência para a criação veio do [Spotify](https://open.spotify.com/intl-pt). O resultado ficou assim:
+Para editar o vídeo utilizei a ferramenta [Canva](https://canva.com). Criei também uma arte que imita a tela de um reprodutor de podcast, utilizando a capa do episódio gerado pelo Gemini AI, caixa de texto e alguns elementos gratuitos disponíveis. A referência para a criação veio do [Spotify](https://open.spotify.com/intl-pt). O resultado ficou assim:
 
 <p align="center">
 <img 
-    src="./assets/ep.01_bug_no_sistema_cade_as_manas_oficial.png"
+    src="./assets/capa_reprodutor_ep01.png"
     width="300"
 />
 </p>
@@ -388,6 +392,23 @@ Para editar o vídeo utilizei a ferramenta [Canva](https://canva.com). Criei tam
     arte criada com a ferramenta Canva
 </p>
 
+### _Visualizer_ do podcast
+
+<p align="center">
+<img 
+    src="./assets/"
+    width="300"
+/>
+</p>
+
+<p align="center">
+    resultado do visualizer criado com IA e edição própria
+</p>
+
+### Conclusão do projeto
+
+Esse projeto foi resultado de muitos estudos e dedicação. O uso da IA para criar conteúdos como esse de forma mais rápida e com infinitas possibilidades foi excepcional, mas como podemos ver, cada IA funciona de uma maneira diferente e com limitações diferentes. Para realizar projetos como este, ou de outros tipos, é importante estudar técnicas de engenharia de prompt, fazer diversos refinamentos e por fim, utilizar sua própria criatividade humana. Dessa forma, a inteligência artificial segue sendo uma ferramenta poderosa em combinação com a nossa inteligência real. (E não, essa conclusão **não** foi gerada por IA).
+
 ## 👨‍💻 Estudante
 
 <p>
@@ -395,7 +416,7 @@ Para editar o vídeo utilizei a ferramenta [Canva](https://canva.com). Criei tam
       align=left 
       margin=10 
       width=80 
-      src=""
+      src="./assets/"
     />
     <p>&nbsp&nbsp&nbspGeiza Morais<br>
     &nbsp&nbsp&nbsp
