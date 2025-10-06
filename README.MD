@@ -409,16 +409,20 @@ Para editar o vídeo utilizei a ferramenta [Canva](https://canva.com). Criei tam
 
 Esse projeto foi resultado de muitos estudos e dedicação. O uso da IA para criar conteúdos como esse de forma mais rápida e com infinitas possibilidades foi excepcional, mas como podemos ver, cada IA funciona de uma maneira diferente e com limitações diferentes. Para realizar projetos como este, ou de outros tipos, é importante estudar técnicas de engenharia de prompt, fazer diversos refinamentos e por fim, utilizar sua própria criatividade humana. Dessa forma, a inteligência artificial segue sendo uma ferramenta poderosa em combinação com a nossa inteligência real. (E não, essa conclusão **não** foi gerada por IA).
 
-## 👨‍💻 Estudante
+## 👩🏻‍💻 Criado por:
 
+<div 
+    style="display: flex; align-items: center;">
 <p>
     <img 
       align=left 
       margin=10 
-      width=80 
-      src="./assets/me"
+      width=80
+      src="./assets/5125548627873958747.jpg" alt="Texto Alternativo" style="border-radius: 50%; width: 100px; height: 170px;"
     />
-    <p>&nbsp&nbsp&nbspGeiza Morais<br>
+
+<p>
+    &nbsp&nbsp&nbsp<b>Geiza Morais</b><br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/m0ra1s">
@@ -426,14 +430,14 @@ Esse projeto foi resultado de muitos estudos e dedicação. O uso da IA para cri
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/geizamorais">
+        href="www.linkedin.com/in/geizamorais/">
         LinkedIn
     </a>
-    &nbsp;|&nbsp;</p>
+    &nbsp;|&nbsp;
+    </p>
 </p>
-<br/><br/>
-<p>
+</div>
 
 ---
 
-⌨️ com 💜 por [Geiza Morais](https://github.com/m0ra1s)
+⌨️ com 💜 por <b>[Geiza Morais](https://github.com/m0ra1s)</b>
