@@ -422,7 +422,7 @@ Esse projeto foi resultado de muitos estudos e dedicação. O uso da IA para cri
       <circle cx="50" cy="50" r="50"/>
     </clipPath>
   </defs>
-  <image href="./assets/5125548627873958747.jpg" width="100" height="100" clip-path="url(#circleView)" preserveAspectRatio="xMidYMid slice"/>
+  <image href="assets/5125548627873958747.jpg" width="100" height="100" clip-path="url(#circleView)" preserveAspectRatio="xMidYMid slice"/>
 </svg>
 
 <b>Geiza Morais</b><br>
