@@ -416,22 +416,15 @@ Esse projeto foi resultado de muitos estudos e dedicação. O uso da IA para cri
 
 ## 👩🏻‍💻 Criado por:
 
-<table>
-  <tr>
-    <td>
-      <img src="./assets/5125548627873958747.jpg" 
-           alt="whoami" 
-           width="100" 
-           height="100"
-           style="object-fit: cover; border-radius: 50%;" />
-    </td>
-    <td style="padding-left: 15px; vertical-align: middle;">
-      <b>Geiza Morais</b><br>
-      <a href="https://github.com/m0ra1s">GitHub</a> &nbsp;|&nbsp; 
-      <a href="https://www.linkedin.com/in/geizamorais/">LinkedIn</a>
-    </td>
-  </tr>
-</table>
+<img src="./assets/5125548627873958747.jpg" 
+     alt="whoami" 
+     width="90" 
+     height="120"
+     style="border-radius: 50%; float: left; margin-right: 15px;" />
+
+<b>Geiza Morais</b><br>
+<a href="https://github.com/m0ra1s">GitHub</a> &nbsp;|&nbsp; 
+<a href="https://www.linkedin.com/in/geizamorais/">LinkedIn</a><br><br><br><br>
 
 ---
 
