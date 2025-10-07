@@ -7,7 +7,7 @@
 <h3 align="center" class="titulo"><b>elas no &lt;comando&gt;</b></h3>
 
 <div align="center">
-    <audio src="./assets/audio_ep01.mp3" controls title="Podcast"></audio>
+    <audio src="assets/audio_ep01.mp3" controls title="Podcast"></audio>
 </div><br>
 
 <h1 align="center">🎙️ Podcast Gerado por IAs Generativas</h1>
