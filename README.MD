@@ -4,13 +4,22 @@
   </a>
 </p>
 
-<h3 align="center" class="titulo"><b>elas no &lt;comando&gt;</b></h3>
+<p align="center" style="color:#BA55D3; margin-top:0;">
+    (clique na imagem para assistir ao <b>visualizer</b> 📹)
+</p>
+
+<h2 align="center" style="color:#9370DB; margin-bottom:5px;">
+  <b>elas no &lt;comando&gt;</b>
+</h2>
+<h4 align="center" style="color:#BA55D3; margin-top:0;">
+  🎙️ podcast
+</h4>
 
 <div align="center">
     <audio src="assets/audio_ep01.mp3" controls title="Podcast"></audio>
 </div><br>
 
-<h1 align="center">🎙️ Podcast Gerado por IAs Generativas</h1>
+<h1 align="center">Podcast Gerado por IAs Generativas</h1>
 
 Projeto desenvolvido com o objetivo de criar um podcast do zero por meio de Inteligência Artificial Generativa, com ênfase no domínio da engenharia de prompts. Esta iniciativa foi concluída durante o bootcamp "Fundamentos de IA Generativa", uma colaboração entre a [DIO](https://dio.me) e a [Universia](https://https://www.universia.net/br/home).
 
