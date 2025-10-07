@@ -1,17 +1,31 @@
-<p align="center">
-<img 
-    src="./assets/capa_do_podcast_gemini_ai.png"
-    width="400"
-/>
-</p>
+<div "align="center" style="display: flex; justify-content: space-around; align: center;">
 
-<p align="center">
-    preview do podcast
-</p>
+  <img src="./assets/capa_do_podcast_gemini_ai.png" alt="Capa do Podcast" width="400" style="margin-right: 10px;">
+  <video width="230" controls><source src="./assets/visualizer_ep01_c.mp4" type="video/mp4"> </video>
+</div>
+
+<h3 class="titulo"><b>elas no &lt;comando&gt;</b></h3>
+<h4 class="subtitulo">🎙️ podcast</h4>
+
+<style>
+  .titulo {
+    text-align: center;
+    color: #9370DB;
+    font-size: 20px;
+    margin-bottom: 5px; /* aproxima do subtítulo */
+  }
+
+  .subtitulo {
+    text-align: center;
+    color: #BA55D3; /* roxo um pouco mais claro */
+    font-size: 16px;
+    margin-top: 0;
+  }
+</style>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
+    <audio src="./assets/audio_ep01.mp3" controls title="Podcast"></audio>
+</div><br>
 
 <h1 align="center">🎙️ Podcast Gerado por IAs Generativas</h1>
 
@@ -24,17 +38,17 @@ Para a realização do podcast, a criação de um visualizer não era exigida pe
 - [ChatGPT](https://chat.openai.com/) 
 - [Gemini AI](https://gemini.google.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [Canva](https://www.capcut.com/pt-br/)
 - [Pippit](https://www.pippit.ai/)
-- [Capcut](https://www.capcut.com/)
+- [Canva](https://www.capcut.com/pt-br/)
+
 
 ## ✨ Como foi feito ?
 
 - O roteiro foi gerado através do Chat-GPT;
 - O áudio foi produzido através da ferramenta "Text to Speech" da ElevenLabs;
 - As artes da capa do podcast e da capa do episódio foram criadas pela ferramenta Nano Banana do Gemini AI;
-- A criação do vídeo para o visualizer foi criado pelo Pippit;
-- A edição de áudio e visualizer foram feitas através do Canva;
+- A animação para o _visualizer_ foi criado pelo Pippit;
+- A edição de áudio e visualizer foram feitas através do Canva.
 
 ## 📚 Materiais
 
@@ -44,7 +58,7 @@ Para a realização do podcast, a criação de um visualizer não era exigida pe
 
 ## 📝Roteirista de podcast
 
-Abaixo descrevi os prompts criados para realizar o projeto do podcast, todos eles foram elaborados pela ferramenta da OpenAI Chat-GPT.
+Abaixo descrevi os prompts criados para realizar o projeto do podcast, todos eles foram elaborados pela ferramenta da OpenAI [ChatGPT](https://chat.openai.com/).
 
 ### Criação de título do podcast
 
@@ -235,7 +249,7 @@ Aqui vão 5 sugestões de títulos curtos, chamativos e alinhados com o tema do 
 
 ## 🎨 Artes do podcast
 
-Para produzir as imagens foi utilizada a Nano Banana do Gemini AI.
+Para produzir as imagens foi utilizada a Nano Banana 🍌 do [Gemini AI](https://gemini.google.com/).
 
 
 ### Criação da capa do podcast
@@ -340,7 +354,7 @@ Proporção 1:1. lo-fi aesthetic, cozy podcast studio vibe, studio ghibli inspir
 
 ## 🎧 Audio do podcast
 
-Para criar o áudio do roteiro do podcast, utilizei a IA da ElevenLabs. Através da ferramenta **Text to Speech** foi gerado uma fala para o roteiro elaborado pelo Chat-GPT. Após experimentar algumas vozes disponíveis, a voz escolhida foi a da Jessica, que combinou muito com a personagem idealizada para apresentar o podcast.
+Para criar o áudio do roteiro do podcast, utilizei a IA da [ElevenLabs](https://beta.elevenlabs.io/). Através da ferramenta **Text to Speech** foi gerado uma fala para o roteiro elaborado pelo Chat-GPT. Após experimentar algumas vozes disponíveis, a voz escolhida foi a da Jessica, que combinou muito com a personagem idealizada para apresentar o podcast.
 
 Após baixar o áudio, acessei o [Pixabay](https://pixabay.com/pt/sound-effects/), site que permite fazer download de efeitos sonoros sem direitos autorais, para buscar sons que pudessem ser adicionados ao conteúdo original. O objetivo era aprimorar a experiência do ouvinte e simular, de forma mais realista, um podcast de verdade.
 
@@ -350,7 +364,7 @@ Sons que utilizei na gravação do áudio:
     - Som de digitação da tecla ENTER no teclado mecânico
     - Som lo-fi para trilha sonora
 
-Utilizando a ferramenta Canva, adicionei os áudios à uma edição de vídeo, personalizando conforme achei necessário.
+Utilizando o [Canva](https://www.capcut.com/pt-br/), adicionei os áudios à uma edição de vídeo, personalizando conforme achei necessário.
 
 ## 🎬 _Visualizer_ do podcast
 
@@ -379,7 +393,7 @@ Estilo anime/lo-fi girl: jovem alternativa com piercing prateado no septo, franj
 
 ### Edição de vídeo
 
-Para editar o vídeo utilizei a ferramenta [Canva](https://canva.com). Criei também uma arte que imita a tela de um reprodutor de podcast, utilizando a capa do episódio gerado pelo Gemini AI, caixa de texto e alguns elementos gratuitos disponíveis. A referência para a criação veio do [Spotify](https://open.spotify.com/intl-pt). O resultado ficou assim:
+Para editar o vídeo utilizei o [Canva](https://canva.com). Criei também uma arte que imita a tela de um reprodutor de podcast, utilizando a capa do episódio gerado pelo Gemini AI, caixa de texto e alguns elementos gratuitos disponíveis. A referência para a criação veio do [Spotify](https://open.spotify.com/intl-pt). O resultado ficou assim:
 
 <p align="center">
 <img 
@@ -396,7 +410,7 @@ Para editar o vídeo utilizei a ferramenta [Canva](https://canva.com). Criei tam
 
 <p align="center">
 <img 
-    src="./assets/"
+    src="./assets/visualizer_ep01_c.mp4"
     width="300"
 />
 </p>
