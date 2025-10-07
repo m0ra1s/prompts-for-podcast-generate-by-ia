@@ -401,14 +401,13 @@ Para editar o vídeo utilizei o [Canva](https://canva.com). Criei também uma ar
 ### _Visualizer_ do podcast
 
 <p align="center">
-<img 
-    src="./assets/visualizer_ep01_c.mp4"
-    width="300"
-/>
+  <a href="assets/visualizer_ep01_c.mp4">
+    <img src="assets/capa_do_podcast_gemini_ai.png" width="400" alt="Clique para ver o visualizer"/>
+  </a>
 </p>
 
 <p align="center">
-    resultado do visualizer criado com IA e edição própria
+    ao clicar na imagem o visualizer será reproduzido
 </p>
 
 ### Conclusão do projeto
@@ -424,7 +423,7 @@ Esse projeto foi resultado de muitos estudos e dedicação. O uso da IA para cri
       align=left 
       margin=10 
       width=80
-      src="./assets/5125548627873958747.jpg" alt="Texto Alternativo" style="border-radius: 50%; width: 100px; height: 170px;"
+      src="assets/5125548627873958747.jpg" alt="Texto Alternativo" style="border-radius: 50%; width: 100px; height: 170px;"
     />
 
 <p>
