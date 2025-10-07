@@ -1,11 +1,10 @@
-<div "align="center" style="display: flex; justify-content: center; gap: 20px;"
-    <a href="./assets/visualizer_ep01_c.mp4">
-    <img src="./assets/capa_do_podcast_gemini_ai.png?text=▶+Ver+Vísualizer" width="400"/>
-    </a>
-</div>
+<p align="center">
+  <a href="assets/visualizer_ep01_c.mp4">
+    <img src="assets/capa_do_podcast_gemini_ai.png" width="400" alt="Clique para ver o visualizer"/>
+  </a>
+</p>
 
-<h3 class="titulo"><b>elas no &lt;comando&gt;</b></h3>
-<h4 class="subtitulo">🎙️ podcast</h4>
+<h3 align="center" class="titulo"><b>elas no &lt;comando&gt;</b></h3>
 
 <div align="center">
     <audio src="./assets/audio_ep01.mp3" controls title="Podcast"></audio>
