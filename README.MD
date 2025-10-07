@@ -1,27 +1,11 @@
-<div "align="center" style="display: flex; justify-content: space-around; align: center;">
-
-  <img src="./assets/capa_do_podcast_gemini_ai.png" alt="Capa do Podcast" width="400" style="margin-right: 10px;">
-  <video width="230" controls><source src="./assets/visualizer_ep01_c.mp4" type="video/mp4"> </video>
+<div "align="center" style="display: flex; justify-content: center; gap: 20px;"
+    <a href="./assets/visualizer_ep01_c.mp4">
+    <img src="./assets/capa_do_podcast_gemini_ai.png?text=▶+Ver+Vísualizer" width="400"/>
+    </a>
 </div>
 
 <h3 class="titulo"><b>elas no &lt;comando&gt;</b></h3>
 <h4 class="subtitulo">🎙️ podcast</h4>
-
-<style>
-  .titulo {
-    text-align: center;
-    color: #9370DB;
-    font-size: 20px;
-    margin-bottom: 5px; /* aproxima do subtítulo */
-  }
-
-  .subtitulo {
-    text-align: center;
-    color: #BA55D3; /* roxo um pouco mais claro */
-    font-size: 16px;
-    margin-top: 0;
-  }
-</style>
 
 <div align="center">
     <audio src="./assets/audio_ep01.mp3" controls title="Podcast"></audio>
