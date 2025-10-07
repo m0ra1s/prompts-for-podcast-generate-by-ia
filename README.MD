@@ -416,20 +416,20 @@ Esse projeto foi resultado de muitos estudos e dedicação. O uso da IA para cri
 
 ## 👩🏻‍💻 Criado por:
 
-<svg width="100" height="100" viewBox="0 0 100 100" style="float: left; margin-right: 15px; border-radius: 50%;">
-  <defs>
-    <clipPath id="circleView">
-      <circle cx="50" cy="50" r="50"/>
-    </clipPath>
-  </defs>
-  <image href="assets/5125548627873958747.jpg" width="100" height="100" clip-path="url(#circleView)" preserveAspectRatio="xMidYMid slice"/>
-</svg>
+<img src="./assets/5125548627873958747.jpg" 
+     alt="whoami" 
+     width="100" 
+     height="100"
+     style="object-fit: cover; border-radius: 50%; float: left; margin-right: 15px;" />
 
-<b>Geiza Morais</b><br>
-<a href="https://github.com/m0ra1s">GitHub</a> &nbsp;|&nbsp; 
-<a href="https://www.linkedin.com/in/geizamorais/">LinkedIn</a>
+<span>
+  <b>Geiza Morais</b><br>
+  <a href="https://github.com/m0ra1s">GitHub</a> &nbsp;|&nbsp; 
+  <a href="https://www.linkedin.com/in/geizamorais/">LinkedIn</a>
+</span>
 
-<br><br>
+</p>
+</div><br><br>
 
 ---
 
